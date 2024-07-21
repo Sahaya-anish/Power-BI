@@ -1,5 +1,7 @@
 **User Journey Analysis Report**
+
 **Overview**
+
   This report provides an in-depth analysis of user journeys based on the interactions recorded in the dashboard. It highlights key metrics such as the total number of users, subscription types, session details, and the most common user pathways. This data is crucial for understanding user behavior, optimizing the user experience, and identifying areas for improvement in the digital marketing strategy.
   
 **Key Metrics**
